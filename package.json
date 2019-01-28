@@ -2,6 +2,9 @@
   "name": "hello-world",
   "version": "0.1.0",
   "private": true,
+  "scripts": {
+    "heroku-postbuild": "cd blog && hexo generate --config source/_data/next.yml"
+  },
   "dependencies": {
     "body-parser": "^1.18.3",
     "express": "^4.16.3",
