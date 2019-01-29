@@ -1,2 +1,2 @@
-web: node blog/index.js
+web: node server.js
 
