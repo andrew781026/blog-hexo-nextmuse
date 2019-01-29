@@ -8,3 +8,10 @@ blog/public/*
 # dependencies
 /node_modules
 blog/node_modules
+
+.DS_Store
+Thumbs.db
+db.json
+*.log
+public/
+.deploy*/
