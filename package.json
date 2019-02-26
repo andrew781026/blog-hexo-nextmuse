@@ -12,19 +12,20 @@
     "prod:server": "serve -s public"
   },
   "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "express-favicon": "^2.0.1",
     "hexo": "^3.7.0",
+    "hexo-cli": "^1.1.0",
     "hexo-generator-archive": "^0.1.5",
     "hexo-generator-category": "^0.1.3",
     "hexo-generator-index": "^0.2.1",
     "hexo-generator-tag": "^0.2.0",
     "hexo-renderer-ejs": "^0.3.1",
-    "hexo-renderer-stylus": "^0.3.3",
     "hexo-renderer-marked": "^0.3.2",
+    "hexo-renderer-stylus": "^0.3.3",
     "hexo-server": "^0.3.1",
-    "body-parser": "^1.18.3",
-    "express": "^4.16.3",
-    "express-favicon": "^2.0.1",
-    "hexo-cli": "^1.1.0",
-    "path": "^0.12.7"
+    "path": "^0.12.7",
+    "selenium-webdriver": "^4.0.0-alpha.1"
   }
 }
