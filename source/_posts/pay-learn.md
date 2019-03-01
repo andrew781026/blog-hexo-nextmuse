@@ -1,7 +1,7 @@
 ---
 title: pay_learn
 date: 2019-02-26 23:26:06
-tags:
+tags: pay
 ---
 
 ---
