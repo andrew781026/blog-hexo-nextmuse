@@ -3,13 +3,13 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
+title: Andrew 的開發手札
 subtitle:
 description:
 keywords:
-author: John Doe
+author: Andrew Wang
 language: zh-tw
-timezone:
+timezone: +8
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
